@@ -1,0 +1,86 @@
+<mjml>
+<mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" />
+       <mj-title>Happy Holidays from Kyriba</mj-title>
+    <mj-preview></mj-preview>
+       <mj-style>
+      @media only screen and (max-width: 480px) {
+        p {
+          font-size: 20px !important;
+          line-height: 25px !important;
+        }
+        .content-section{
+            padding:20px 30px 0px 30px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#FFF">
+  <!-- Logo section  -->
+  <mj-section >
+  <mj-column>
+<mj-spacer height="0px"/>
+  </mj-column>
+  </mj-section>
+  <!-- Hero section -->
+  <mj-section padding="0px"> 
+  <mj-column width="100%">
+  <mj-image src="https://info.kyriba.com/l/104372/2020-12-17/56vtkw/104372/1608240035IhLO1pzZ/english_ornaments.gif" alt="Christmas Ornaments and Shapes" padding="0px" width="600px"/>
+  </mj-column>
+  </mj-section>
+  <!-- Content section-->
+  <mj-section padding="5px 20px 0 20px" background-color="#fff" css-class="content-section">
+  <mj-column>
+  <mj-text color="#172C56" font-family="Open Sans, Helvetica, Arial,sans-serif" font-size="25px" line-height="35px" align="center">
+<p style="font-family:Open Sans, Helvetica, Arial, sans-serif;font-size:25px;line-height:35px;color:#172C56;text-align:center"><strong>Let a hopeful new year be the gift we give each other.</strong><br>Our very best to you in 2021.</p>
+  </mj-text>
+  </mj-column>
+  </mj-section>
+    <!-- Logo section  -->
+  <mj-section padding="0px 0px 20px 0px" background-color="#fff">
+  <mj-column vertical-align="middle">
+ <mj-image src="https://storage.pardot.com/104372/1607701339Owtr11VE/kyriba_logo_holidays.png" width="100px" alt="Kyriba Company Logo" href="https://www.kyriba.com/" padding="0px" target="_blank" rel="noopener">
+  </mj-column>
+  </mj-section>
+<!-- Bottom Animation -->
+  <mj-section padding="0px"> 
+  <mj-column width="100%">
+  <mj-image src="https://info.kyriba.com/l/104372/2020-12-10/56qz1b/104372/1607644968ETkNUAnJ/christmas_ornaments_footer.gif" alt="Christmas Bauble" padding="0px" width="600px"/>
+  </mj-column>
+  </mj-section>
+  <!-- Footer Section -->
+    <mj-section padding="20px 60px 20px 30px" background-color="#172C56" border-radius="0px 0px 80px 0px">
+    <mj-column width="70%" vertical-align="middle">
+  <mj-text color="#fff" font-family="Open Sans, Helvetica, Arial,sans-serif" font-size="10px" line-height="15px" align="left">
+<p style="font-family:Open Sans, Helvetica, Arial, sans-serif;font-size:10px;line-height:15px;color:#fff;text-align:left">Copyright © 2020 Kyriba Corp.<br>4435 Eastgate Mall, Suite 200 San Diego, California 92121</p>
+  </mj-text>
+    </mj-column>
+    <!-- Social Media Section -->
+ <mj-group width="30%" vertical-align="middle">
+          <mj-column>
+            <mj-image alt="Kyriba LinkedIn" href="https://www.linkedin.com/company/kyriba/" target="_blank" rel="noopener" width="40px" padding="0px" src="https://info.kyriba.com/l/104372/2020-12-09/56qq3v/104372/1607535811CTtTP6wA/linkedin_icon.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image alt="Kyriba Facebook" href="https://www.facebook.com/Kyriba/" width="40px" padding="0px" target="_blank" rel="noopener" src="https://info.kyriba.com/l/104372/2020-12-09/56qq3s/104372/1607535808A49NYzUF/facebook_icon.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image alt="Kyriba Twitter" href="https://twitter.com/kyribacorp" width="40px" padding="0px" target="_blank" rel="noopener" src="https://info.kyriba.com/l/104372/2020-12-09/56qq3g/104372/1607535693O4oD70zF/twitter_icon.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image alt="Kyriba Instagram" href="https://www.instagram.com/livekyriba" width="40px" target="_blank" rel="noopener" padding="0px" src="https://info.kyriba.com/l/104372/2020-12-09/56qq3q/104372/1607535808YydIuW7t/instagram_icon.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image alt="Kyriba Youtube" href="https://www.youtube.com/kyribacorp" width="40px" target="_blank" rel="noopener" padding="0px" src="https://info.kyriba.com/l/104372/2020-12-09/56qq36/104372/1607535663V5uS3cMa/youtube_icon.png"></mj-image>
+          </mj-column>
+        </mj-group>
+    </mj-column>
+  </mj-section>
+  <mj-section>
+  <mj-column>
+  <mj-spacer height="15px"/>
+  </mj-column>
+  </mj-section>
+  </mj-body>
+</mjml>
+
+

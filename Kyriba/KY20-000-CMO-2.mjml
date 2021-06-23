@@ -1,0 +1,55 @@
+<mjml>
+<mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap" />
+    <mj-title>Kyriba Template</mj-title>
+    <mj-preview>Preview text goes here</mj-preview>
+  </mj-head>
+  <mj-body background-color="#fff">
+  <!-- Logo section  -->
+  <mj-section border-bottom="1px solid #C3C3C3" padding="10px 0px">
+  <mj-column vertical-align="middle">
+ <mj-image src="https://f.hubspotusercontent20.net/hubfs/429272/Email%20Files/Kyriba/kyriba.png" width="80px" align="left" href="https://www.kyriba.com/">
+  </mj-column>
+  <mj-column vertical-align="middle">
+  <mj-text font-family="Open Sans, Helvetica, Arial,sans-serif" font-size="10px" color="#4D4D4D" text-transform="uppercase" align="right"><a href="/" style="color:#4D4D4D;text-decoration:none;">October 27, 2020</a></mj-text>
+  </mj-column>
+  </mj-section>
+  <!-- Intro section -->
+  <mj-section padding="25px 0 0 0">
+  <mj-column width="70%" vertical-align="middle">
+  <mj-text color="#023cba" line-height="45px" font-size="20px" font-family="Open Sans, Helvetica, Arial,sans-serif">
+  <h1>Lorem ipsum a dolor sit dolor et cons sit loden</h1>
+  </mj-text>
+  </mj-column>
+  <mj-column width="30%" vertical-align="middle">
+  <mj-image src="https://f.hubspotusercontent20.net/hubfs/429272/Email%20Files/Kyriba/green-globe.png"/>
+  </mj-column>
+  </mj-section>
+  <!-- Content section-->
+  <mj-section padding="0">
+  <mj-column>
+  <mj-text color="#4D4D4D" font-family="Open Sans, Helvetica, Arial,sans-serif" font-size="15px" line-height="25px">
+<p><span style="font-weight:bold">Dear Kyriba Team,</span><br><br>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea.<br><br>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore!</p>
+  </mj-text>
+  </mj-column>
+  </mj-section>
+  <!-- Author section -->
+    <mj-section border-bottom="1px solid #C3C3C3" padding="0 0 25px 0">
+    <mj-column width="20%" vertical-align="middle">
+      <mj-image src="https://loot.vsslagency.com/hubfs/Email%20Files/Kyriba/tom-butta.png" width="100px"/>
+    </mj-column>
+  <mj-column width="80%" vertical-align="middle">
+    <mj-text color="#4D4D4D" font-family="Open Sans, Helvetica, Arial,sans-serif" font-size="15px" line-height="25px" align="left" padding="0px">
+<p>Sincerely,<br><span style="font-weight:bold">Tom Butta</span></p>
+  </mj-text>
+  </mj-column>
+  </mj-section>
+  <!-- Copyright section -->
+  <mj-section>
+  <mj-column>
+  <mj-text font-family="Open Sans, Helvetica, Arial,sans-serif" font-size="10px" color="#4D4D4D" line-height="18px" align="center"><p>Copyright &copy; 2020 Kyriba Corp.<br>4435 Eastgate Mall, Suite 200 San Diego, California 92121</p></mj-text>
+  </mj-column>
+  </mj-section>
+  </mj-body>
+</mjml>

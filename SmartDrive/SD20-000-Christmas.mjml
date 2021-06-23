@@ -1,0 +1,133 @@
+<mjml>
+<mj-head>
+<mj-title>Happy Holidays</mj-title>
+<!-- Preview Snippet -->
+<mj-preview>As 2020 draws to a close, we want to wish you a safe and healthy holiday season. 
+We hope you and yours find happiness and prosperity in the New Year.</mj-preview>
+    <mj-style>
+
+        .company-link{
+           border-right:1px solid white;           
+       }
+      @media only screen and (max-width: 500px) {
+        .company-info{
+            text-align:center !important;
+        }
+        .company-link-col{
+            padding:20px 0 !important;
+            border-bottom:1px solid white !important;
+        }
+                .company-link{
+           border-right:none !important;           
+       }
+       .social-link-container{
+           width:50% !important;
+       }
+      }
+    </mj-style>
+</mj-head>
+<mj-body background-color="#fff">
+<mj-section text-align="center">
+  <mj-column vertical-align="middle">
+<mj-image width="250px" src="https://info.smartdrive.net/hubfs/Email_Images/Holiday%202020/smartdrive-omnitracs-logo.png" alt="SmartDrive + Omnitracs: Driving a smarter future together" padding="5px" href="https://www.smartdrive.net/" target="_blank" rel="noopener"/>
+</mj-column>
+</mj-section>
+<!-- Hero Section -->
+<mj-section padding="0px">
+<mj-column>
+<mj-image width="900px" src="https://info.smartdrive.net/hubfs/Email_Images/Holiday%202020/holidays-hero.jpg" alt="Happy Holidays!" padding="0"/>
+</mj-column>
+</mj-section>
+<!-- Content Section -->
+<mj-wrapper background-color="#00325E" padding="0px">
+<mj-section padding="40px 50px 0px 50px" background-color="#00325E" text-align="center">
+<mj-column vertical-align="middle">
+<mj-image width="50px" src="https://info.smartdrive.net/hubfs/Email_Images/Holiday%202020/snowflake.png" alt="Snowflake" padding="0"/>
+</mj-colum>
+</mj-section>
+<mj-section padding="0px 10px 0px 10px" background-color="#00325E" css-class="content-section">
+<mj-column>
+  <mj-text color="#fff" font-family="Arial,sans-serif" font-size="22px" line-height="30px" align="center">
+<p style="font-family:Arial, sans-serif;font-size:20px;line-height:27px;color:#fff;text-align:center">
+As 2020 draws to a close, we want to wish you a safe and healthy holiday season. 
+We hope you and yours find happiness and prosperity in the New Year.</p>
+<p style="font-family:Arial,sans-serif;font-size:18px;font-weight:bold;color:#F8991D">The SmartDrive Team</p>
+  </mj-text>
+</mj-column>
+</mj-section>
+<mj-section background-color="#00325E" padding="0px">
+<mj-column>
+<mj-divider border-width="1px" border-color="#fff" padding="0px" width="50%"/>
+</mj-column>
+</mj-section>
+<!-- Additional Section -->
+<mj-section padding="0px 20px 20px 20px" background-color="#00325E">
+<mj-column>
+  <mj-text color="#fff" font-family="Arial,sans-serif" font-size="13px" line-height="19px" align="left">
+<p style="font-family:Arial, sans-serif;font-size:13px;line-height:19px;color:#fff;text-align:left">
+We want to make sure you are fully supported over the Christmas period. Our central customer service team will continue to operate <strong>24/7</strong>, and can be contacted by email on <a href="mailto:customer.service@smartdrive.net" style="text-decoration:none;color:#F8991D;font-weight:bold">customer.service@smartdrive.net</a> or by calling <strong>0800 0470968</strong> in the usual way.</p>
+  </mj-text>
+</mj-column>
+</mj-section>
+</mj-wrapper>
+<!-- Footer Section -->
+<mj-wrapper padding="20px 0px 0px 0px" background-color="#414241"> 
+<!-- Misc Links -->
+  <mj-section padding="10px 20px" text-align="center">
+      <mj-column padding="0px" width="80px">
+<mj-text padding="5px 0px" css-class="company-link-col">
+<p style="font-family:Arial, sans-serif;font-size:12px;line-height:18px;color:#fff;text-align:center;margin:0px" class="company-link"><a href="https://uk.smartdrive.net/contact-us/" target="_blank" rel="noopener" style="color:#fff;text-decoration:none;font-weight:bold;font-family:Arial,sans-serif">Contact</a></p>
+</mj-text>
+      </mj-column>
+        <mj-column padding="0px" width="75px">
+<mj-text  padding="5px 0px" css-class="company-link-col" >
+<p style="font-family:Arial, sans-serif;font-size:12px;line-height:18px;color:#fff;text-align:center;margin:0px" class="company-link"><a href="https://uk.smartdrive.net/privacy-policy/" target="_blank" rel="noopener" style="color:#fff;text-decoration:none;font-weight:bold;font-family:'Arial',sans-serif">Privacy</a></p>
+</mj-text>
+      </mj-column>
+              <mj-column padding="0px" width="60px">
+<mj-text  padding="5px 0px" css-class="company-link-col">
+<p style="font-family:Arial, sans-serif;font-size:12px;line-height:18px;color:#fff;text-align:center;margin:0px" class="company-link"><a href="https://uk.smartdrive.net/blog" target="_blank" rel="noopener" style="color:#fff;text-decoration:none;font-weight:bold;font-family:'Arial',sans-serif">Blog</a></p>
+</mj-text>
+      </mj-column>
+        <mj-column padding="0px" width="105px">
+<mj-text  padding="5px 0px" css-class="company-link-col">
+<p style="font-family:Arial, sans-serif;font-size:12px;line-height:18px;color:#fff;text-align:center;margin:0px" class="company-link"><a href="{{ unsubscribe_link }}" target="_blank" rel="noopener" style="color:#fff;text-decoration:none;font-weight:bold;font-family:'Arial',sans-serif">Unsubscribe</a></p>
+</mj-text>
+      </mj-column>
+        <mj-column padding="0px" width="95px">
+<mj-text  padding="5px 0px" css-class="company-link-col">
+<p style="font-family:Arial, sans-serif;font-size:12px;line-height:18px;color:#fff;text-align:center;margin:0px"><a href="{{view_as_page_url}}" rel="noopener" style="color:#fff;text-decoration:none;font-weight:bold;font-family:'Arial',sans-serif" target="_blank">View Online</a></p>
+</mj-text>
+      </mj-column>
+      
+    </mj-section>
+<!-- Address Info -->
+<mj-section padding="5px 10px 20px 10px" background-color="#414241">
+<mj-column width="70%" vertical-align="middle">
+  <mj-text color="#fff" font-family="Arial,sans-serif" font-size="12px" line-height="18px" align="left">
+<p style="font-family:Arial, sans-serif;font-size:12px;line-height:18px;color:#fff;text-align:left;margin:0px" class="company-info">Copyright &copy; 2020 {{ site_settings.company_name }}<br/>{{site_settings.company_street_address_1}} {{site_settings.company_street_address_2}} {{site_settings.company_city}} {{site_settings.company_state}} {{site_settings.company_zip}} {{site_settings.company_country}}<br/>You have received this email because you are an active customer of {{ site_settings.company_name }}. You can update your <a href="{{ unsubscribe_link }}" style="color:#fff" target="_blank" rel="noopener">preferences</a> at any time.</p>
+  </mj-text>
+</mj-column>
+<!-- Social Media Links -->
+<mj-column width="30%" vertical-align="middle" css-class="social-link-container">
+   <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td style="text-align:center"> 
+            <a href="https://twitter.com/SmartDriveLtd" target="_blank" rel="noopener">
+                  <img width="26px" src="https://info.smartdrive.net/hubfs/Email_Images/Email%20Assets/omnitracs-twitter.png" alt="SmartDrive Twitter"/>
+                </a> 
+                </td>
+                      <td style="text-align:center">  <a href="https://www.linkedin.com/company/smartdrivesystems" target="_blank" rel="noopener">
+                  <img width="26px" src="https://info.smartdrive.net/hubfs/Email_Images/Email%20Assets/omnitracs-linkedin.png" alt="SmartDrive LinkedIn"/>
+                </a> </td>
+                     <td style="text-align:center"> <a href="https://www.youtube.com/channel/UC8xjpwsT5vsxywcyqjXbNkQ" target="_blank" rel="noopener">
+                  <img width="26px" src="https://info.smartdrive.net/hubfs/Email_Images/Email%20Assets/sd-omnitracs-youtube.png" alt="SmartDrive YouTube"/>
+                </a> </td>
+          </tr>
+        </mj-table>
+</mj-column>
+</mj-section>
+</mj-wrapper>
+<!-- End -->
+</mj-body>
+</mjml>

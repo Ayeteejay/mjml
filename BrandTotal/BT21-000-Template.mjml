@@ -1,0 +1,101 @@
+<mjml>
+<mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" />
+<mj-title>Webinar: Reverse-Engineer Competitors' Social Ad Secrets</mj-title>
+    <mj-style>
+ .red-link{
+   color:#F91642 !important;
+   font-weight:bold !important;
+   text-decoration:none !important
+ }
+      @media only screen and (max-width: 500px) {
+        .company-info{
+            text-align:center !important;
+        }
+      }
+    </mj-style>
+    <mj-preview>
+You're invited to a webinar on Monday, June 7, at 11:00 a.m. Eastern.
+    </mj-preview>
+</mj-head>
+<mj-body background-color="#F0F4F5">
+<mj-section>
+<mj-column>
+        <mj-spacer height="5px" />
+</mj-column>
+</mj-section>
+<mj-section background-color="#30313C" >
+  <mj-column vertical-align="middle"  padding="15px 0px" >
+<mj-image src="https://software.clickback.com/editor1/images/7026/industry-reports/brandtotal-logo.png" alt="BrandTotal"  href="https://info.brandtotal.com/webinar-how-top-performing-consumer-brands-reverse-engineer-their-competitors-social-advertising-creative-secrets" width="190px" target="_blank" rel="noopener noreferrer"  />
+</mj-column>
+<mj-column>
+</mj-column>
+</mj-section>
+<!-- Content Section -->
+<mj-wrapper background-color="#fff" padding="0px" >
+<mj-section padding="30px 30px 20px 30px" background-url="https://software.clickback.com/editor1/images/7026/industry-reports/brandtotal-background-3.jpg" background-size="cover" >
+<mj-column>
+  <mj-text color="#30313C" font-family="Open Sans, Helvetica, Arial,sans-serif" font-size="15px" line-height="25px" align="left" padding-top="0">
+    <p style="font-family:Open Sans, Helvetica, Arial,sans-serif;font-size:15px;line-height:25px;color:#30313C;text-align:left;margin-bottom:0" >
+  Hi <span style="color:#F91642">[:fname:]</span>,
+  </p>
+<p style="font-family:Open Sans, Helvetica, Arial,sans-serif;font-size:15px;line-height:25px;color:#30313C;text-align:left;margin-bottom:0" >
+I’d like to invite you to a webinar we’re holding on Monday, June 7, 2021 at 11:00 p.m. ET on <a href="https://info.brandtotal.com/webinar-how-top-performing-consumer-brands-reverse-engineer-their-competitors-social-advertising-creative-secrets" style="color:#30313C !important;font-weight:bold !important;text-decoration:none !important" target="_blank" rel="noopener noreferrer">“How Top-Performing Consumer Brands Reverse-Engineer Their Competitors' Social Advertising Creative Secrets,”</a> brought to you by BrandTotal and YMS Online/Voxburner.</p>
+</mj-text>
+       <mj-image src="https://software.clickback.com/editor1/images/7026/yms-voxburner.png" alt="Webinar speaker images"  href="https://info.brandtotal.com/webinar-how-top-performing-consumer-brands-reverse-engineer-their-competitors-social-advertising-creative-secrets" target="_blank" rel="noopener noreferrer"  />
+  <mj-text color="#30313C" font-family="Open Sans, Helvetica, Arial,sans-serif" font-size="15px" line-height="25px" align="left" padding-top="0">
+<p style="font-family:Open Sans, Helvetica, Arial,sans-serif;font-size:15px;line-height:25px;color:#30313C;text-align:left;">Join Mark Patchett, Founder of Growth Shop, and Benjamin Karsch, Managing Director and Group CMO, Accenture Strategy and Sustainability, Accenture for a lively discussion on unlocking the secrets of rival brands’ social advertising strategy.</p>
+<p style="font-family:Open Sans, Helvetica, Arial,sans-serif;font-size:15px;line-height:25px;color:#30313C;text-align:left;">Register now to learn how to:</p>
+<ul>
+<li>See every single competitive ad and every single consumer response on social media in real time</li>
+<li>Use creative intelligence to make better content, faster</li>
+<li>Understand who’s winning social share of voice, consumer sentiment and engagement</li>
+<li>Benchmark your brand social performance against the competition in real time</li>
+<li>Analyze insights from rival brands to reverse-engineer their social strategy</li>
+</ul>
+<p style="font-family:Open Sans, Helvetica, Arial,sans-serif;font-size:15px;line-height:25px;color:#30313C;text-align:left">
+<a href="https://info.brandtotal.com/webinar-how-top-performing-consumer-brands-reverse-engineer-their-competitors-social-advertising-creative-secrets" class="red-link" style="color:#F91642 !important;font-weight:bold !important;text-decoration:none !important" target="_blank" rel="noopener noreferrer">Register now</a> to get access to tips and best practices in competitive social advertising.</p>
+  </mj-text>
+  <mj-button align="left" background-color="#F91642" inner-padding="18px 40px" font-size="15px" font-family="Open Sans, Helvetica, Arial,sans-serif" border-radius="0px" padding-bottom="25px" href="https://info.brandtotal.com/webinar-how-top-performing-consumer-brands-reverse-engineer-their-competitors-social-advertising-creative-secrets" target="_blank" rel="noopener noreferrer">Sign Up Now &#8594;</mj-button>
+</mj-column>
+</mj-section>
+</mj-wrapper>
+<!-- Footer Section -->
+<mj-wrapper padding="30px 0px 0px 0px" background-color="#30313C"> 
+<!-- Company Logo Section -->
+<mj-section background-color="#30313C" padding="0px" >
+  <mj-column vertical-align="middle">
+<mj-image src="https://software.clickback.com/editor1/images/7026/industry-reports/brandtotal-logo.png" alt="BrandTotal"  href="https://www.brandtotal.com/" width="190px" target="_blank" rel="noopener noreferrer"  />
+</mj-column>
+<mj-column>
+</mj-column>
+</mj-section>
+<!-- Address Info -->
+<mj-section padding="0px 30px 40px 30px" background-color="#30313C">
+<mj-column vertical-align="middle" width="65%" >
+  <mj-text color="#fff" font-family="Open Sans, Helvetica, Arial,sans-serif" font-size="12px" line-height="20px" align="left" >
+<p style="font-family:Open Sans, Helvetica, Arial,sans-serif;font-size:12px;line-height:20px;color:#fff;text-align:left;margin:0px" class="company-info">[:cs_company:], [:cs_addr:],<br/>[:cs_city:], [:cs_state:], [:cs_zip:], [:cs_country:]</p><p style="font-family:Open Sans, Helvetica, Arial,sans-serif;font-size:12px;line-height:20px;color:#fff;text-align:left;margin:14px 0 0 0" class="company-info">
+Copyright &copy; 2021 [:cs_company:]. All rights reserved.<br/><a style="color:#F91642 !important;font-weight:bold !important;text-decoration:none !important"href="http://token/[:remove:]" target="_blank" rel="noopener noreferrer" class="red-link">Unsubscribe</a></p>
+  </mj-text>
+</mj-column>
+
+<!-- Social Media Links -->
+<mj-column width="35%" vertical-align="top">
+ <mj-social font-size="15px" icon-size="28px" mode="horizontal" padding="5px 0 0 0" align="center" border-radius="25px" >
+            <mj-social-element src="https://software.clickback.com/editor1/images/7026/industry-reports/linkedin-brandtotal.png" background-color="#F91642" href="https://www.linkedin.com/company/brandtotal/">
+            </mj-social-element>
+            <mj-social-element  background-color="#F91642" href="https://twitter.com/brandtotal1" src="https://software.clickback.com/editor1/images/7026/industry-reports/twitter-brandtotal.png">
+            </mj-social-element>
+          </mj-social>
+</mj-column>
+</mj-section>
+</mj-wrapper>
+<!-- Ending Spacer -->
+<mj-section>
+<mj-column>
+        <mj-spacer height="5px" />
+</mj-column>
+</mj-section>
+</mj-body>
+</mjml>
+
