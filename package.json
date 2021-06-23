@@ -1,0 +1,25 @@
+{
+  "name": "vssl-mjml",
+  "version": "1.0.0",
+  "description": "MJML email templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayeteejay/mjml.git"
+  },
+  "keywords": [
+    "mjml"
+  ],
+  "author": "Adam Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayeteejay/mjml/issues"
+  },
+  "homepage": "https://github.com/Ayeteejay/mjml#readme",
+  "dependencies": {
+    "mjml": "^4.10.0"
+  }
+}
