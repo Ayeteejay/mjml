@@ -1,0 +1,159 @@
+<mjml>
+  <mj-head>
+    <mj-font name="din-2014" href="https://use.typekit.net/mlh0ynf.css" />
+    <mj-title>Brain Corp Will Be at ISSA. Will You?</mj-title>
+    <mj-style inline="inline">
+      .footer-link {
+        color: #000;
+        text-decoration: none;
+        font-weight: bold
+      }
+
+      .text-link {
+        color: #EE7521
+      }
+
+      a {
+        color: #EE7521
+      }
+    </mj-style>
+    <mj-style>
+      @media only screen and (max-width: 480px) {
+        p {
+          font-size: 15px;
+          line-height: 20px;
+          padding: 0px 10px
+        }
+
+        h1 {
+          font-size: 24px;
+          line-height: 26px;
+          padding: 0px 10px
+        }
+
+        h2 {
+          font-size: 15px;
+          line-height: 20px;
+          padding: 0px 10px
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e2e2e2">
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="20px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#EE7521" background-repeat="no-repeat" text-align="center" padding="0 0 0 0">
+      <mj-column>
+        <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px" src="https://loot.vsslagency.com/hubfs/Email%20Files/Braincorp/robot-header.jpg" target="_blank" title="" width="800px" href="https://register.gotowebinar.com/register/2679449767950389261?source=ISSA" alt="ISSA EMEA Webinar is January 28th."></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper background-color="#ffffff" padding="20px 0px 0px 0px">
+      <mj-section>
+        <mj-column>
+
+          <mj-text font-size="20px" color="#000" line-height="25px" font-family="din-2014, Helvetica, Arial, sans-serif" font-weight="bold" padding="0px">
+            <p style="text-align:center;padding:none;margin:none;margin-top:0">Wednesday, February 12, 2020 3PM - 4PM CET</p>
+          </mj-text>
+          <mj-button font-family="din-2014, Helvetica, Arial, sans-serif" background-color="#ef7521" color="white" font-size="18px" inner-padding="30px 50px" font-weight="bold" href="https://register.gotowebinar.com/register/2679449767950389261?source=ISSA" target="_blank">
+            WEBINAR REGISTRATION
+          </mj-button>
+
+          <mj-text font-size="15px" color="#000" line-height="25px" font-family="din-2014, Helvetica, Arial, sans-serif">
+
+            <p style="margin:0px;padding:20px 30px 0px 30px">The cleaning industry is entering into a phase of unprecedented innovation, characterized by the entry of new, forward-thinking technologies. The rise of automated floor care equipment in particular can be seen everywhere from the tradeshow floor to the local grocery store. What was once a novel idea is now a reality for many managers who depend on robots to enhance efficiency and customer experiences.<p>
+
+                <p style="margin:0px;padding:0px 30px">In this webinar, <a href="https://www.braincorp.com/" target="_blank" color="#EE7521">Brain Corp</a> executives <a href="https://www.linkedin.com/in/sandy-agnos-9a36925/" target="_blank" color="#EE7521">Sandy Agnos</a> and <a href="https://www.linkedin.com/in/michel-spruijt-74a0b03/" target="_blank" color="#EE7521">Michel Spruijt</a>, in partnership with <a href="https://www.issa.com/emea-portal-home" target="_blank">ISSA EMEA</a>, will provide an informative deep dive into the topic of robotic floor care. <p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding="0px 70px">
+        <mj-group>
+          <mj-column>
+            <mj-image src="https://loot.vsslagency.com/hubfs/Email%20Files/Braincorp/sandy-agnos.jpg" width="200px" href="https://www.linkedin.com/in/sandy-agnos-9a36925/" />
+            <mj-text font-size="20px" color="#000" line-height="25px" font-family="din-2014, Helvetica, Arial, sans-serif" font-weight="bold" padding="0px">
+              <p style="text-align:center;padding:0;margin:0;">Sandy Agnos</p>
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-image src="https://loot.vsslagency.com/hubfs/Email%20Files/Braincorp/michel-spruijt.jpg" width="200px" href="https://www.linkedin.com/in/michel-spruijt-74a0b03/" />
+            <mj-text font-size="20px" color="#000" line-height="25px" font-family="din-2014, Helvetica, Arial, sans-serif" font-weight="bold" padding="0px">
+              <p style="text-align:center;padding:0;margin:0;">Michel Spruijt</p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="15px" color="#000" line-height="25px" font-family="din-2014, Helvetica, Arial, sans-serif">
+
+            <p style="margin:0px;padding:20px 30px 0px 30px">Participants will learn about the advantages provided by automation technology, questions to ask when introducing robotics to a new environment, and how the industry will change and adapt. The webinar will address the following questions:
+              <p>
+                <ul style="padding:0px 60px;">
+                  <li>What is the state of the robotic floor care market?</li>
+                  <li>What value do cleaning robots provide to users?</li>
+                  <li>What considerations should leaders take into account when deciding to add robots to their cleaning teams?</li>
+                </ul>
+          </mj-text>
+
+          <mj-text font-size="20px" color="#000" line-height="25px" font-family="din-2014, Helvetica, Arial, sans-serif" font-weight="bold" padding="0px">
+            <p style="text-align:center;padding:0px 60px;margin:none;">The robots are here. Find out how you can take advantage during this one-hour webinar.</p>
+          </mj-text>
+          <mj-button font-family="din-2014, Helvetica, Arial, sans-serif" background-color="#ef7521" color="white" font-size="18px" inner-padding="30px 50px" font-weight="bold" href="https://register.gotowebinar.com/register/2679449767950389261?source=ISSA" target="_blank">
+            REGISTER NOW
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+
+
+
+      <mj-section background-color="#fff" text-align="center" padding="0">
+        <mj-column>
+          <mj-image align="center" border="none" padding="0px" src="https://cdn2.hubspot.net/hubfs/429272/Email%20Files/Braincorp/vector-data-background-1.jpg" target="_blank" width="800px" alt="BrainCorp"></mj-image>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+    <mj-wrapper>
+      <mj-section padding-bottom="0px">
+        <mj-group width="40%">
+          <mj-column>
+            <mj-image alt="BrainCorp LinkedIn" href="https://www.linkedin.com/company/brain-corporation" target="_blank" width="40px" padding="0px" src="https://cdn2.hubspot.net/hubfs/429272/Email%20Files/Braincorp/linkedin.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image alt="BrainCorp Facebook" href="https://www.facebook.com/BrainCor/" width="40px" padding="0px" target="_blank" src="https://cdn2.hubspot.net/hubfs/429272/Email%20Files/Braincorp/facebook.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image alt="BrainCorp Twitter" href="https://twitter.com/braincor" width="40px" padding="0px" target="_blank" src="https://cdn2.hubspot.net/hubfs/429272/Email%20Files/Braincorp/twitter.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image alt="BrainCorp Instagram" href="https://www.instagram.com/the_braincorp/" width="40px" target="_blank" padding="0px" src="https://cdn2.hubspot.net/hubfs/429272/Email%20Files/Braincorp/instagram.png"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image alt="BrainCorp Youtube" href="https://www.youtube.com/user/thebraincor/" width="40px" target="_blank" padding="0px" src="https://cdn2.hubspot.net/hubfs/429272/Email%20Files/Braincorp/youtube.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0px">
+        <mj-column width="100%" padding="0px">
+          <mj-text color="#000" font-size="11px" align="center" line-height="20px" font-family="din-2014, Helvetica, Arial, sans-serif">
+            Copyright © 2020 Brain Corporation. All rights reserved.<br>
+            10182 Telesis Court Suite 100 San Diego, CA 92121<br>
+            <a class="footer-link" href="*" style="color:#000;text-decoration:none">Unsubscribe</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>`
