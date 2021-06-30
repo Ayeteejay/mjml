@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" />
+    <mj-style>
+      h1 {
+        font-size: 17px !important;
+        line-height: 0px !important;
+        color: #0038B5 !important;
+      }
+      p{
+        color: #2f3e60 !important;
+        font-size:12px !important;
+        line-height:17px !important;
+      }
+      .standard-link {
+        color: #2f3e60 !important;
+        font-weight: bold !important;
+        text-decoration: none !important
+      }
+    </mj-style>
+  </mj-head>
+  
+  <mj-body background-color="#fff">
+  <mj-section padding="0px">
+    <mj-column padding="0px">
+       <mj-image src="./images/braincorp-swirl.png" alt="BrandTotal" href="https://braincorp.com" width="35px" target="_blank" rel="noopener noreferrer" align="left" padding="0px 0px 10px 0px"/>
+      <mj-text font-family="Roboto, Helvetica, Arial, sans-serif" font-size="17px" align="left" padding="0px">
+        <h1 style="font-family:Roboto, Helvetica, Ariel, sans-serif;color:#0038b5;font-size:17px">Erik Bratt</h1>
+        <p style="color: #2f3e60;font-size:12px;padding:0 0 10px 0;border-bottom:1px solid #ff7c00;width:45%;margin:0">Senior Director, Brand, Content &#38; Communications </p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding="0px">
+    <mj-column padding="0px">
+      <mj-text font-family="Roboto, Helvetica, Arial, sans-serif" font-size="17px" align="left" padding="0px">
+        <p style="color: #2f3e60;font-size:12px;padding:0;">10182 Telesis Ct, Suite 100<br>San Diego, CA 92121</p>
+        <p style="color: #2f3e60;font-size:12px;padding:0;">(858)775-0882<br><a href="https://braincorp.com" class="standard-link" style="color:#2f3e60 !important;font-weight:bold !important;text-decoration:none !important" target="_blank" rel="noopener noreferrer" class="standard-link">braincorp.com</a></p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="5px" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
