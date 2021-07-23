@@ -1,0 +1,37 @@
+<mjml>
+<mj-head>
+<mj-font name="Inter" href='https://fonts.googleapis.com/css2?family=Inter:wght@500;700&display=swap'/>
+<mj-title>ASTERRA</mj-title>
+</mj-head>
+    <mj-body>
+         <mj-section padding="0px">
+            <mj-column padding="0px">
+               <mj-image src="https://f.hubspotusercontent20.net/hubfs/429272/Email%20Files/ASTERRA/asterra-star.png" href="https://www.asterra.io/" target="_blank" rel="noopener noreferrer" width="60px" align="left" padding="0 0 10px 0"/>            
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0px">
+            <mj-column padding="0px">
+                <mj-text padding="0px" font-family="'Inter', Helvetica, Arial, sans-serif">
+                    <p style="color:#002BFF !important;font-size:18px !important;font-weight:700 !important;padding:0 !important;margin:0 !important;font-family:'Inter',Helvetica,Arial,sans-serif">[[NAME]]</p>
+                    <p style="padding:0 !important;margin:6px 0 0 0 !important;font-size:12px;font-family:'Inter',Helvetica,Arial,sans-serif">[[TITLE]]</p>   
+                </mj-text>               
+                <mj-text padding="0px" font-family="'Inter', Helvetica, Arial, sans-serif" font-size="12px" color="#002BFF">
+                    <p style="color:#002BFF !important;line-height:1.5 !important;font-family:'Inter',Helvetica,Arial,sans-serif;font-size:12px !important">[[PHONE]]<br>
+                    <a href="mailto:[[EMAIL]]" arget="_blank" rel="noopener noreferrer" style="color:#002BFF !important;text-decoration:none !important;font-family:'Inter',Helvetica,Arial,sans-serif;font-family:12px !important">[[EMAIL]]</a><br>
+                    <a href="https://www.asterra.io/" target="_blank" rel="noopener noreferrer" style="color:#002BFF !important;text-decoration:none !important;font-family:'Inter',Helvetica,Arial,sans-serif;font-family:12px !important">asterra.io</a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0px">
+            <mj-column padding="0px" width="35%">
+                <mj-text padding="0px" font-size="12px" font-family="'Inter', Helvetica, Arial, sans-serif" font-size="12px">
+                    <p style="line-height:1.5 !important;border-top:1px solid #CCCCCC;padding-top:15px;font-family:'Inter',Helvetica,Arial,sans-serif;font-size:12px !important;margin-top:5px !important">[[ADDRESS]]</p>
+                    </mj-text>
+                </mj-column>
+                <mj-column width="65%">
+                </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
+
