@@ -34,7 +34,7 @@
         </mj-section>
         <mj-section padding="0px">
             <mj-column>
-                <mj-image src="https://f.hubspotusercontent20.net/hubfs/429272/Email%20Files/ASTERRA/promo-banner.png" href="https://asterra.io/marketing" target="_blank" rel="noopener noreferrer" padding="0px" width="210px" align="left"/>
+                <mj-image src="https://f.hubspotusercontent20.net/hubfs/429272/Email%20Files/ASTERRA/announcement.png" href="https://asterra.io/marketing" target="_blank" rel="noopener noreferrer" padding="0px" width="210px" align="left"/>
             </mj-column>
         </mj-section>
     </mj-body>
