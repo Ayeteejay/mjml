@@ -1,0 +1,64 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" />
+    <mj-style>
+      h1 {
+        font-size: 17px !important;
+        line-height: 0px !important;
+        color: #0038B5 !important;
+      }
+      p{
+        font-size:12px !important;
+        line-height:17px !important;
+      }
+      .standard-link {
+        color: #2f3e60 !important;
+        font-weight: bold !important;
+        text-decoration: none !important
+      }
+    </mj-style>
+  </mj-head>
+  
+  <mj-body background-color="#fff">
+  <mj-section padding="0px">
+    <mj-column padding="0px">
+       <mj-image src="https://info.braincorp.com/hubfs/Brain-HTML_Email_Assets/social-media/braincorp-swirl.png" alt="Brain Corp Swirl Logo" href="https://braincorp.com" width="35px" target="_blank" rel="noopener noreferrer" align="left" padding="0px 0px 10px 0px"/>
+      <mj-text font-family="Roboto, Helvetica, Arial, sans-serif" font-size="17px" align="left" padding="0px">
+        <h1 style="font-family:Roboto, Helvetica, Ariel, sans-serif !important;color:#0038b5 !important;font-size:17px !important">Gavin Donley</h1>
+        <p style="font-family:Roboto, Helvetica, Ariel, sans-serif !important;color: #ff7c00 !important;font-size:12px !important;padding:0 0 10px 0 !important;border-bottom:1px solid #bcbcbc !important;width:45%;margin:0 0 10px 0 !important">Product Marketing Manager<br/>Brain Corp</p>        
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding="0px">
+    <mj-column padding="0px" width="15%">
+      <mj-text font-family="Roboto, Helvetica, Arial, sans-serif" font-size="17px" align="left" padding="0px">
+        <p style="font-family:Roboto, Helvetica, Ariel, sans-serif !important;color: #2f3e60 !important;font-size:12px !important;padding:0 !important;margin:0px !important">(858)775-0882<br><a href="https://braincorp.com" class="standard-link" style="font-family:Roboto, Helvetica, Ariel, sans-serif !important;color:#2f3e60 !important;font-weight:bold !important;text-decoration:none !important" target="_blank" rel="noopener noreferrer" class="standard-link">braincorp.com</a></p>
+      </mj-text>
+    </mj-column>
+    <mj-column padding="0px 0px 0px 10px" width="85%" border-left="1px solid #bcbcbc">
+      <mj-text font-family="Roboto, Helvetica, Arial, sans-serif" font-size="17px" align="left" padding="0px" >
+        <p style="font-family:Roboto, Helvetica, Ariel, sans-serif !important;color: #2f3e60 !important;font-size:12px !important;padding:0 !important; margin:0px !important">10182 Telesis Ct, Suite 100<br>San Diego, CA 92121</p>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-section padding="0px">
+      <mj-column padding="0px">
+        <mj-table align="left" padding="10px 0 0 0" width="15%"> 
+            <tr style="list-style: none">  
+                <td style="padding:0px">
+                    <a href="https://www.linkedin.com/company/brain-corporation" target="_blank" rel="noopener noreferrer"><img src="https://info.braincorp.com/hubfs/Brain-HTML_Email_Assets/Social%20Media%20Assets/linkedin-icon.png" width="15px" alt="Brain Corp LinkedIn"/></a>
+                </td>
+                    <td style="padding:0px;text-align:center">
+                      <a href="https://twitter.com/braincorp" target="_blank" rel="noopener noreferrer"><img src="https://info.braincorp.com/hubfs/Brain-HTML_Email_Assets/social-media/twitter-icon.png" width="20px" alt="Brain Corp Twitter"/></a>
+                </td>
+                 <td style="padding:0px;text-align:center">
+                    <a href="https://www.youtube.com/user/thebraincor/" target="_blank" rel="noopener noreferrer"><img src="https://info.braincorp.com/hubfs/Brain-HTML_Email_Assets/social-media/youtube-icon.png" width="20px" alt="Brain Corp YouTube"/></a>
+                </td>
+            </tr>
+        </mj-table>        
+    </mj-column>
+  </mj-section>
+  </mj-body>
+</mjml>
