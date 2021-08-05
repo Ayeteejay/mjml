@@ -1,5 +1,6 @@
 <mjml>
   <mj-head>
+  <mj-title>Brain Corp</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" />
     <mj-style>
       h1 {
