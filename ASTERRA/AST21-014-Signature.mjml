@@ -2,8 +2,40 @@
 <mj-head>
 <mj-font name="Inter" href='https://fonts.googleapis.com/css2?family=Inter:wght@500;700&display=swap'/>
 <mj-title>ASTERRA</mj-title>
+<mj-style>
+    .wrapper{
+       padding:40px;
+    }
+    a{
+       color:#002BFF !important;
+       text-decoration:none !important;
+       font-family:'Inter',Helvetica,Arial,sans-serif !important;
+       font-family:12px !important
+    }
+    .name-header{
+        color:#002BFF !important;
+        font-size:18px !important;
+        font-weight:700 !important;
+        padding:0 !important;
+        margin:0 !important;
+        font-family:'Inter',Helvetica,Arial,sans-serif !important;
+    }
+    .standard-header{
+        padding:0 !important;
+        margin:6px 0 0 0 !important;
+        font-size:12px !important;
+        font-family:'Inter',Helvetica,Arial,sans-serif !important;
+    }
+    .contact{
+        color:#002BFF !important;
+        text-decoration:none !important;
+        font-family:'Inter',Helvetica,Arial,sans-serif !important;
+        font-family:12px !important;
+        font-weight:700 !important
+    }
+</mj-style>
 </mj-head>
-    <mj-body>
+    <mj-body width="1500px" background-color="#fff" css-class="wrapper">
          <mj-section padding="0px">
             <mj-column padding="0px">
                <mj-image src="https://f.hubspotusercontent20.net/hubfs/429272/Email%20Files/ASTERRA/asterra-star.png" href="https://www.asterra.io/" target="_blank" rel="noopener noreferrer" width="60px" align="left" padding="0 0 10px 0"/>            
@@ -12,13 +44,13 @@
         <mj-section padding="0px">
             <mj-column padding="0px">
                 <mj-text padding="0px" font-family="'Inter', Helvetica, Arial, sans-serif">
-                    <p style="color:#002BFF !important;font-size:18px !important;font-weight:700 !important;padding:0 !important;margin:0 !important;font-family:'Inter',Helvetica,Arial,sans-serif">[[NAME]]</p>
-                    <p style="padding:0 !important;margin:6px 0 0 0 !important;font-size:12px;font-family:'Inter',Helvetica,Arial,sans-serif">[[TITLE]]</p>   
+                    <p style="color:#002BFF !important;font-size:18px !important;font-weight:700 !important;padding:0 !important;margin:0 !important;font-family:'Inter',Helvetica,Arial,sans-serif !important" class="name-header">[[NAME]]</p>
+                    <p style="padding:0 !important;margin:6px 0 0 0 !important;font-size:12px !important;font-family:'Inter',Helvetica,Arial,sans-serif !important" class="standard-header">[[TITLE]]</p>   
                 </mj-text>               
-                <mj-text padding="0px" font-family="'Inter', Helvetica, Arial, sans-serif" font-size="12px" color="#002BFF" font-weight="700">
-                    <p style="color:#002BFF !important;line-height:1.5 !important;font-family:'Inter',Helvetica,Arial,sans-serif;font-size:12px !important;font-weight:700">[[PHONE]]<br>
-                    <a href="mailto:[[EMAIL]]" arget="_blank" rel="noopener noreferrer" style="color:#002BFF !important;text-decoration:none !important;font-family:'Inter',Helvetica,Arial,sans-serif;font-family:12px !important">[[EMAIL]]</a><br>
-                    <a href="https://www.asterra.io/" target="_blank" rel="noopener noreferrer" style="color:#002BFF !important;text-decoration:none !important;font-family:'Inter',Helvetica,Arial,sans-serif;font-family:12px !important">asterra.io</a>
+                <mj-text padding="0px" font-family="'Inter', Helvetica, Arial, sans-serif !important" font-size="12px" color="#002BFF" font-weight="700">
+                    <p style="color:#002BFF !important;line-height:1.5 !important;font-family:'Inter',Helvetica,Arial,sans-serif !important;font-size:12px !important;font-weight:700 !important" class="contact">[[MOBILE]]<br>
+                    <a href="mailto:[[EMAIL]]" arget="_blank" rel="noopener noreferrer" style="color:#002BFF !important;text-decoration:none !important;font-family:'Inter',Helvetica,Arial,sans-serif !important;font-family:12px !important;font-weight:700 !important">[[EMAIL]]</a><br>
+                    <a href="https://www.asterra.io/" target="_blank" rel="noopener noreferrer" style="color:#002BFF !important;text-decoration:none !important;font-family:'Inter',Helvetica,Arial,sans-serif !important;font-family:12px !important;font-weight:700 !important">asterra.io</a>
                     </p>
                 </mj-text>
             </mj-column>
@@ -34,8 +66,8 @@
 
         <mj-section padding="0px">
             <mj-column padding="0px" width="60%">
-                <mj-text padding="0px" font-size="12px" font-family="'Inter', Helvetica, Arial, sans-serif" font-size="12px">
-                    <p style="line-height:1.5 !important;font-family:'Inter',Helvetica,Arial,sans-serif;font-size:12px !important;margin:0px !important;padding:0 0 15px 0!important">[[ADDRESS]]</p>
+                <mj-text padding="0px" font-size="12px" font-family="'Inter', Helvetica, Arial, sans-serif !important" font-size="12px">
+                    <p style="line-height:1.5 !important;font-family:'Inter',Helvetica,Arial,sans-serif !important;font-size:12px !important;margin:0px !important;padding:0 0 15px 0!important" class="standard-header">[[ADDRESS]]</p>
                     </mj-text>
                 </mj-column>
                 <mj-column width="40%">
